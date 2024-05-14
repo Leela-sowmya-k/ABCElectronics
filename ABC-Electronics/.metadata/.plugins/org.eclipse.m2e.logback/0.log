@@ -1,0 +1,17 @@
+2024-05-14 19:26:44,925 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-14 19:27:13,130 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:abc-electronics:0.0.1-SNAPSHOT @ C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\pom.xml.
+2024-05-14 19:27:15,302 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-14 19:27:15,332 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-14 19:27:15,340 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\src\test\resources
+2024-05-14 19:27:16,470 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-14 19:27:16,475 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-14 19:27:16,479 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\src\test\resources
+2024-05-14 19:28:53,789 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-14 19:28:53,798 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-14 19:28:53,803 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\src\test\resources
+2024-05-14 19:37:50,667 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-14 19:37:50,685 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-14 19:37:50,689 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\src\test\resources
+2024-05-14 19:37:55,622 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-14 19:37:55,645 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-14 19:37:55,649 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\komsowmy\Downloads\ABC-Electronics\ABC-Electronics\ABC-Electronics-Backend\abc-electronics\src\test\resources
